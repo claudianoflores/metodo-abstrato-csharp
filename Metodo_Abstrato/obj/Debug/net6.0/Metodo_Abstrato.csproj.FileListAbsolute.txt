@@ -1,0 +1,15 @@
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\net6.0\Metodo_Abstrato.exe
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\net6.0\Metodo_Abstrato.deps.json
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\net6.0\Metodo_Abstrato.runtimeconfig.json
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\net6.0\Metodo_Abstrato.dll
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\net6.0\Metodo_Abstrato.pdb
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.csproj.AssemblyReference.cache
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.AssemblyInfo.cs
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.dll
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\refint\Metodo_Abstrato.dll
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.pdb
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\Metodo_Abstrato.genruntimeconfig.cache
+C:\Temp\Projetos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\net6.0\ref\Metodo_Abstrato.dll
